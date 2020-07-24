@@ -1,0 +1,6 @@
+2020-07-24 22:59:32,429 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Handling Request URI : /main/volvo
+2020-07-24 22:59:32,464 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Completed Request URI : /main/volvo
+2020-07-24 22:59:32,464 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Completed method call : find
+2020-07-24 22:59:32,465 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Brand : volvo
+2020-07-24 22:59:32,465 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Model : xc40
+2020-07-24 22:59:32,465 INFO c.g.s.l.i.ListInterceptor [http-nio-8080-exec-1] Exit Request URI : /main/volvo
